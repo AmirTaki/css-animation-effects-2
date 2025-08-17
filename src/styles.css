@@ -30,3 +30,12 @@ body {
     filter: hue-rotate(calc(var(--i) * 90deg));
     animation: animate 1s linear infinite;
 }
+
+@keyframes animate {
+    0%{
+        background-position: 40px;
+    }  
+    100%{
+        background-position:0px ;
+    } 
+}
