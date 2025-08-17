@@ -1,1 +1,1 @@
-[view](https://amirtaki.github.io/css-animation-effects-2/_)
+[view](https://amirtaki.github.io/css-animation-effects-2/)
