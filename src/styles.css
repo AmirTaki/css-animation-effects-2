@@ -18,3 +18,9 @@ body {
     align-items: center;
     width: 100%;
 }
+.box {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-color: #fff;
+}
